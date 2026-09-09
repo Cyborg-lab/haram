@@ -20,3 +20,4 @@ Mini App bot bilan aynan bitta MongoDB bazasidan foydalanadi. `WEBAPP_URL` ga HT
 
 Telegram Mini App xavfsizligi uchun sayt faqat Telegram ichida ochiladi: foydalanuvchi `initData` imzosi bilan avtomatik taniladi. Botdan ro'yxatdan o'tgan telefon raqami Mini App profilida ham ko'rinadi; Mini App'da kiritilgan raqam ham o'sha `users` kolleksiyasiga saqlanadi.
 # enigma
+# haram
